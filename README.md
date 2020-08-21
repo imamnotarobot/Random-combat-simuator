@@ -1,5 +1,5 @@
-# Random-combat-generator v2
-a combat system that uses random numbers to decide the outcome.
+# Combat simulator Version 3
+a combat system that uses a turn based system to decide the outcome.
 
-Version 2 update
-now includes more stratagy, like pokemon, but without anything interesting
+Version 3 update
+now includes a hub world with 2 shops and a house
