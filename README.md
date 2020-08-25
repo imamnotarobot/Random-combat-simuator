@@ -14,8 +14,8 @@ bug fixes
 
 
 
-# Combat simulator Version 2 (GUI)
-version 2 of the text based combat system, but now with a very primitive gui (guided user interface)
+# Combat simulator Version 3 (GUI)
+gui version now has same content
 
 # coming soon?
 
@@ -30,5 +30,7 @@ bug fixes
 version 4.2 (if required)
 bug fixes
 
-version 3.2 (gui)
-
+version 5
+new city
+attack upgrades
+new weapons
