@@ -1,4 +1,4 @@
-# Combat simulator Version 3.2
+# Combat simulator Version 3.4
 a combat system that uses a turn based system to decide the outcome.
 
 changelog:
@@ -11,12 +11,14 @@ bug fixes
 version 3.2 update
 bug fixes
 
+version 4 update
+progression system
 
 
 
-# Combat simulator Version 3 (GUI)
-gui version now has same content
 
+# Combat simulator Version 4 (text based)?
+the text based version has been discontinueds
 # coming soon?
 
 (note that these updates are not final, and could never happen)
