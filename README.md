@@ -1,4 +1,4 @@
-# Combat simulator Version 3.4
+# Combat simulator Version 4
 a combat system that uses a turn based system to decide the outcome.
 
 changelog:
@@ -18,21 +18,22 @@ progression system
 
 
 # Combat simulator Version 4 (text based)?
-the text based version has been discontinueds
+the text based version has been discontinued because it looks better and is esier than developing 2 versions
 # coming soon?
 
 (note that these updates are not final, and could never happen)
 
-version 4
+version 5
+saving and loading
 an actual story
 
-version 4.1 (if required)
+version 5.1 (if required)
 bug fixes
 
 version 4.2 (if required)
 bug fixes
 
-version 5
+version 6
 new city
 attack upgrades
 new weapons
