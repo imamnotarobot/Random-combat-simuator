@@ -23,6 +23,7 @@ the text based version has been discontinued because it looks better and is easi
 
 (note that these updates are not final, and could never happen)
 
+
 version 5
 
 saving and loading
@@ -34,9 +35,13 @@ version 5.1 (if required)
 
 bug fixes
 
-version 4.2 (if required)
+
+
+version 5.2 (if required)
 
 bug fixes
+
+
 
 version 6
 
