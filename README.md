@@ -1,4 +1,4 @@
-# Combat simulator Version 4
+# Combat simulator Version 4.1
 a combat system that uses a turn based system to decide the outcome.
 
 changelog:
@@ -14,10 +14,11 @@ bug fixes
 version 4 update
 progression system
 
+version 4.1 update
+  bug fix: fixed infinite money glitch
 
 
-
-# Combat simulator Version 4 (text based)?
+# Combat simulator Version 4.1 (text based)?
 the text based version has been discontinued because it looks better and is easier than developing 2 versions
 # coming soon?
 
@@ -29,19 +30,6 @@ version 5
 saving and loading
 
 an actual story
-
-
-version 5.1 (if required)
-
-bug fixes
-
-
-
-version 5.2 (if required)
-
-bug fixes
-
-
 
 version 6
 
