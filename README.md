@@ -1,4 +1,4 @@
-# Combat simulator Version 4.1
+# Combat simulator Version 4.2
 a combat system that uses a turn based system to decide the outcome.
 
 changelog:
